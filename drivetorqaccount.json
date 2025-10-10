@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "drive-torq-exam-portal-473610",
+  "private_key_id": "d6676542832d3960ab9fa2921f532059f81ffe82",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQComTHtAAV9NBeP\nWF25Oy0iSWIo7DK0oyiePlpRlCBBLBG1R59ilsuFxQmSm6RjkzbKRbhqdmRsAyJ1\ncRpSCbCMzKfVvw8ufsamIGMtF2P/45YdSSN3ONoOCzYT+G1ruma+ic2tP39rJdUY\ng/SaPeG5AZ+maciceHCQXvdaODALiwSrP5BBLFdA4rRlCiOI8y1PI/tdE8+wLTyG\nimtPpymn6rZCvVeLv8M086+Uc0sRDtHm5uV8FAHm74My1K4TwF2TELvPbLcWDYL1\n2++BcDArTpSMaW96yvLI5JZ+qiUuMENgCQ1J6OQCXL9L3BkmddeiyNCqcNt6Rwpm\nUTJo2m8tAgMBAAECggEAHNRZV6vtxFuQfcf/+skWLis7OEEvaHkP3INQAWwhWdOV\n0ZhGNl8PvTeUq/emVAqbz1m9r6LACEI+9bMZ65ZRlLn4JxItH+e4wzZ9jvvVcy+w\n/x//CwdzLfyXyjFsUIQGxqUcwPe/K4zEFBWYUXmsa+zNpnCnR65GnUFH7ar2+DoN\nwn4B0Y8onWZDUbbBAS5iLoJwWg00NX0GHjTDrztTIyfXKTaI4bxSoc0Ytkm+JUZ+\nplsW4fnuaPtqTC+vx2JWlQCF8IcH9aBCSFC+sXMbFBlt63WthV9u68LR2C2IJvAQ\nZq0s/ZP6SCPGf2U6v0AKNmKHE7kYFELRRQGNr0gf9wKBgQDW6CL4e5Xd7Y2Lbn6u\nJY5ZrzEkgqYSKP8W52WWKnZWC5GbyE1K8gy5tGaRusIqlruS2OG2h0t1dbTpe6ei\nYq0kl4AI4YfiVq+uICYrQ4YamXVPS89Kmpul6xRJBO8aA9iYGoZ3GUMDhcwH3maa\nJoPrrOTHoCYVXbeJG3OgKbxEbwKBgQDI1jnWXNCYoblnyMZ+WyB+B/0CCjGnrGkU\n7c86RnZvVoPKmnjF/sR4U5D/8F2QwU8xd1BM0rReXj/nv3f5cwFtj8BIuhWo/3Yj\nrcRRY8hgoUp+7J1GK2Y4v3uhHlLbRh2dbx5VHQmGbu0bAAsBjZT7c0xXY5W9mBdb\nYCj5fkYsIwKBgGQWNMM4+3EiQ3ueeE0unH9UQjTYy/NFOJg4KG2pVPd559R/ks/G\nrvqF9AcGzYr8LFuVunlBxXjs2taqikXsYurZy/1W2+wjpyoXOu+HQRt+QM4vZlk+\nbCL3urjPHXQmOmeMYvdwwm8PjxhTEcHVEjdejCYUhegJf4LRUCZViaLtAoGAbFK/\nl1MwX2K7MbMk/HoCKHf+it8csSdY9iTeJLxknOC47MosYf5r0cqg5qqqjKz3HeMQ\nuJ7dEhkbts+a0jyphIKIX7GehSxkeBH9VTjQlu3n1FWi7nnyBKGi+N/2KLbEuml4\nnseun4es82cuiIPo20bw4iGgXkZuMqbG8uqcxqkCgYEAs156MjDiljC57/ncmbct\nHtIsQqh5UrfJ3nekSc7lynFlFAj+wpQ6lLvD2Ws5j/52OpkYFNpYWKWXhD6smhRm\nvZGgn4xPPAonY/zcol1wsQn5zk45lJ4m8oqJkfkAGz5k3cOvbKZCpeAfOwrXMj7m\n8tVvgCu+7vfdNZjrcPgWS3o=\n-----END PRIVATE KEY-----\n",
+  "client_email": "drivetorqexamtest@drive-torq-exam-portal-473610.iam.gserviceaccount.com",
+  "client_id": "103149478139018392559",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/drivetorqexamtest%40drive-torq-exam-portal-473610.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
